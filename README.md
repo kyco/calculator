@@ -11,4 +11,4 @@ and simplifies calculating tricky interest or purchase values.
 Support
 -------
 
-For bugs or improvements please email info@kyco.co.za.
+For bugs or improvements please email [info@kycosoftware.com](mailto:info@kycosoftware.com).
