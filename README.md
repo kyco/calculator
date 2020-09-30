@@ -1,4 +1,4 @@
-calculator
+calculator-An amazing calculator for calculation
 ==========
 
 A powerful calculator based on Python.
